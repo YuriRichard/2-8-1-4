@@ -1,0 +1,9 @@
+{
+  "name": "2814",
+  "version": "1.0.0",
+  "description": "Um mod com estética vaporwave inspirado no 2814.",
+  "theme": "/themes/theme.css",
+  "wallpaper": "/images/wallpaper.gif",
+  "music": "/audio/2814_recovery.mp3",
+  "scripts": ["/scripts/sound.js"]
+}

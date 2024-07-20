@@ -1,0 +1,23 @@
+body {
+  background-color: #1b1b2f;
+  color: #ffffff;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  color: #c0c0ff;
+}
+
+.header {
+  background-color: #232946;
+}
+
+.footer {
+  background-color: #232946;
+}
+
+.button {
+  background-color: #393e46;
+  color: #e0e0e0;
+  border: 1px solid #4e4e50;
+}
